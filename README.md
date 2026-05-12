@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ashish 👋
 
-<!--
-**AshishGupta-12/AshishGupta-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* B.Tech Student
+* Learning C++ and Data Structures & Algorithms
+* Preparing for Software Engineering Internships
+* Interested in Problem Solving and Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+* C++
+* DSA
+* SQL
+
+## Goals
+
+* Become strong in problem solving
+* Build solid projects
+* Prepare for internships and interviews
